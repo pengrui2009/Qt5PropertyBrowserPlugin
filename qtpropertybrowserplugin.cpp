@@ -1,4 +1,4 @@
-#include "qcustomplugin.h"
+#include "qtpropertybrowserplugin.h"
 #include "qbuttonpropertybrowserplugin.h"
 #include "qgroupboxpropertybrowserplugin.h"
 #include "qtreepropertybrowserplugin.h"

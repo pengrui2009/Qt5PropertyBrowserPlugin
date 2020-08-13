@@ -1,14 +1,14 @@
 CONFIG      += plugin debug_and_release
-TARGET      = $$qtLibraryTarget(qcustompluginplugin)
+TARGET      = $$qtLibraryTarget(qtpropertybrowserplugin)
 TEMPLATE    = lib
 
 HEADERS     =   \
-                qcustomplugin.h \
+                qtpropertybrowserplugin.h \
                 qtreepropertybrowserplugin.h \
                 qbuttonpropertybrowserplugin.h \
                 qgroupboxpropertybrowserplugin.h
 SOURCES     =   \
-                qcustomplugin.cpp \
+                qtpropertybrowserplugin.cpp \
                 qtreepropertybrowserplugin.cpp \
                 qgroupboxpropertybrowserplugin.cpp \
                 qbuttonpropertybrowserplugin.cpp

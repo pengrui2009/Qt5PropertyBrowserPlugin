@@ -1,6 +1,4 @@
 #include "qcustomplugin.h"
-#include "qlightbuttonplugin.h"
-#include "qpercentringplugin.h"
 #include "qbuttonpropertybrowserplugin.h"
 #include "qgroupboxpropertybrowserplugin.h"
 #include "qtreepropertybrowserplugin.h"
